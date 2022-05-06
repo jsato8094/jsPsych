@@ -1,5 +1,11 @@
 # @jspsych/config
 
+## 1.3.0
+
+### Minor Changes
+
+- [`3463e977`](https://github.com/jspsych/jsPsych/commit/3463e9778f3c2787b9c75c0f9bd7d19cc79798b3) Thanks [@becky-gilbert](https://github.com/becky-gilbert)! - Add the updatePluginVersions gulp task. This task looks at each of the docs/plugins markdown files, finds the page title and "Current version" string, adds the current version number (from the package.json file), and uses the package name as the page title.
+
 ## 1.2.0
 
 ### Minor Changes
